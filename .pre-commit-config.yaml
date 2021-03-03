@@ -1,0 +1,6 @@
+repos:
+  - repo: https://github.com/Beomus/notion2calendar
+    rev: v1.0
+    hooks:
+      - id: black
+        language_version: python3
